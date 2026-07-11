@@ -1,0 +1,10 @@
+HIDROSED_V1_v15_integrado_CUENCA_FIX
+Fecha: 2026-07-11
+Corrección: módulo Cuenca y morfometría corregido para evitar subdimensionamiento.
+Cambios:
+- Relleno hidrológico de depresiones antes de D8.
+- Selección robusta de punto de salida: mayor acumulación y mayor área aguas arriba.
+- Radios de ajuste ampliados por defecto.
+- Buffer eje-PC ampliado por defecto.
+- Diagnóstico de candidatos por radio de ajuste.
+- Se mantiene módulo Eje Cauce y Secciones v15 integrado.
